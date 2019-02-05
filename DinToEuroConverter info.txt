@@ -1,0 +1,7 @@
+Obican prost kod za izracunavanje evra pomocu dinara.
+
+Program prikazuje koji je kupovni,srednji i prodajni kurs evra od unesenog iznosa dinara.
+
+Ovaj program je jedan od prvih projekata koji sam radio cisto radi shvatanja metoda , funkcija i povezivanja sa klasama.
+
+U model klasi su smestene metode dok nam je menjacnica klasa glavna.
